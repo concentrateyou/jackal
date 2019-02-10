@@ -9,10 +9,9 @@ import (
 	"os/exec"
 	"strings"
 
-	"github.com/ortuman/jackal/router"
-
 	"github.com/ortuman/jackal/log"
 	"github.com/ortuman/jackal/module/xep0030"
+	"github.com/ortuman/jackal/router"
 	"github.com/ortuman/jackal/version"
 	"github.com/ortuman/jackal/xmpp"
 )
